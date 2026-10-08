@@ -1,0 +1,20 @@
+SQSHINDEX1	path	bytes	rate	audio	title	artist	album	quality	lyrkind	id	src	track	disc
+steady-spruce-soars.sqsh	182834	48000	178480	Curtains Up (Skit)	Eminem	The Eminem Show	high	line	7025f4e6550e	aa06efb5e6092213	1	
+fancy-lagoon-builds.sqsh	1969735	48000	1946800	White America	Eminem	The Eminem Show	high	word	df712f879533	d3c2fbbde2b9975a	2	
+modern-raven-leaps.sqsh	1530121	48000	1510960	Business	Eminem	The Eminem Show	high	word	faaebf47781c	ba39cede178fb28b	3	
+mighty-swan-skates.sqsh	1798245	48000	1789120	Cleanin' Out My Closet	Eminem	The Eminem Show	high	line	9d9712442b39	a3b052e7af4b877a	4	
+steady-pine-waits.sqsh	1951191	48000	1941440	Square Dance	Eminem	The Eminem Show	high	line	3fd6ff4a1a28	9fb439c2d228c82a	5	
+cozy-glacier-slides.sqsh	460101	48000	448480	The Kiss (Skit)	Eminem	The Eminem Show	high	word	1cdceb3133ee	f98f440331a27ee5	6	
+grand-lotus-walks.sqsh	1368484	48000	1358640	Soldier	Eminem	The Eminem Show	high	line	d6140d4b3cb8	4c8602847b7c9c08	7	
+crisp-zebra-dives.sqsh	1656802	48000	1636400	Say Goodbye Hollywood	Eminem	The Eminem Show	high	word	23b781823d64	db848a4761aeb398	8	
+dapper-fern-sings.sqsh	1750008	48000	1740720	Without Me	Eminem	The Eminem Show	high	line	9ec431261af2	c99e429f6462f5a4	9	
+fierce-lemon-sleeps.sqsh	143003	48000	137120	Paul Rosenberg (Skit)	Eminem	The Eminem Show	high	word	616ad1bc9c69	d04fdeece1d10754	10	
+sleepy-quartz-dives.sqsh	2057544	48000	2037440	Sing For The Moment	Eminem	The Eminem Show	high	word	70d65e16322d	bd60c9370d9f986c	11	
+humble-planet-swims.sqsh	2112868	48000	2100400	Superman	Eminem, Dina Rae	The Eminem Show	high	line	eb46df20871e	7cb4ac14c1ce96ba	12	
+swift-cedar-chases.sqsh	1940385	48000	1924640	Hailie's Song	Eminem	The Eminem Show	high	word	f9176ff0368e	16310aa5b68e5602	13	
+modern-zebra-hums.sqsh	205535	48000	199120	Steve Berman (Skit)	Eminem	The Eminem Show	high	word	289d68c69300	5f9145e560b49e47	14	
+grand-volcano-marches.sqsh	1624330	48000	1614160	When The Music Stops	Eminem, D12	The Eminem Show	high	line	c947304eba7e	d963cf8495cace85	15	
+golden-owl-skates.sqsh	1883470	48000	1858724	Say What You Say	Eminem, Dr. Dre	The Eminem Show	high	word	79ab49e5fd00	8cabf26e58ab1142	16	
+fizzy-swan-spins.sqsh	1807870	48000	1787440	Till I Collapse	Eminem, Nate Dogg	The Eminem Show	high	word	8fdb39e6f3e1	ee2c4413f404f9e7	17	
+jazzy-cricket-glows.sqsh	1610879	48000	1601840	My Dad's Gone Crazy	Eminem, Hailie Jade	The Eminem Show	high	line	156c84667928	76fa44d0d7407ad8	18	
+curly-lotus-yawns.sqsh	381089	48000	376320	Curtains Close	Eminem	The Eminem Show	high	line	2f97f1aef22a	440a0d7bf471d352	19	
