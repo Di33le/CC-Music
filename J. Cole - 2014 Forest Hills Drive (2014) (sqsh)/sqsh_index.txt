@@ -1,0 +1,14 @@
+SQSHINDEX1	path	bytes	rate	audio	title	artist	album	quality	lyrkind	id	src	track	disc
+snappy-lemon-skates.sqsh	783793	48000	774922	Intro	J. Cole	2014 Forest Hills Drive	high	word	a6456feefc38	4a3ade2164038154	1	
+steady-planet-swims.sqsh	1471802	48000	1456188	January 28th	J. Cole	2014 Forest Hills Drive	high	word	24076ad4b6c4	517ac9bd92745475	2	
+brisk-tiger-bounces.sqsh	1445404	48000	1435600	Wet Dreamz	J. Cole	2014 Forest Hills Drive	high	line	eb473729fef8	be9dd6a5da1af953	3	
+neon-wave-flies.sqsh	1603779	48000	1585280	03' Adolescence	J. Cole	2014 Forest Hills Drive	high	word	abbcdf328adc	71852c5e75757ca5	4	
+shiny-coral-smiles.sqsh	1626866	48000	1618329	A Tale Of 2 Citiez	J. Cole	2014 Forest Hills Drive	high	line	f5472334dec7	c0a6cf17f35dc133	5	
+happy-hawk-swings.sqsh	1750526	48000	1728740	Fire Squad	J. Cole	2014 Forest Hills Drive	high	word	f4c309f16fc7	ffbe4b784c277380	6	
+fierce-robin-floats.sqsh	1556883	48000	1547234	St. Tropez	J. Cole	2014 Forest Hills Drive	high	word	b2c9ad7bfe13	7f52a9028c88ff35	7	
+wild-galaxy-rolls.sqsh	1826599	48000	1806385	G.O.M.D	J. Cole	2014 Forest Hills Drive	high	word	b28f6976b228	1a51cd38d4cdcc24	8	
+chilly-anchor-sails.sqsh	1767130	48000	1756795	No Role Modelz	J. Cole	2014 Forest Hills Drive	high	line	c0389aff6a05	4159e9d3fa64aadb	9	
+polar-breeze-floats.sqsh	1327028	48000	1315040	Hello	J. Cole	2014 Forest Hills Drive	high	word	1e8e2885b114	f50d5d1857df6996	10	
+giant-spruce-laughs.sqsh	1772384	48000	1757192	Apparently	J. Cole	2014 Forest Hills Drive	high	word	de7b7bcfa16f	10348f516cb72597	11	
+early-bison-surfs.sqsh	1284109	48000	1268982	Love Yourz	J. Cole	2014 Forest Hills Drive	high	word	1ea6c3e2ec4c	955daf47e4273eb0	12	
+little-finch-glows.sqsh	5303346	48000	5251840	Note To Self	J. Cole	2014 Forest Hills Drive	high	word	ea315ea1cf2d	770e2c24e67ab421	13	

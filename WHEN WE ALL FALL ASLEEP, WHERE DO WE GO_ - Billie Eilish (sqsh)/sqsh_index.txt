@@ -1,0 +1,15 @@
+SQSHINDEX1	path	bytes	rate	audio	title	artist	album	quality	lyrkind	id	src	track	disc
+tidy-beacon-grins.sqsh	85816	48000	81471	!!!!!!!	Billie Eilish	WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?	high		52dcd9f83916	092151dac6104b36	1	1
+little-hawk-chases.sqsh	1174198	48000	1164528	bad guy	Billie Eilish	WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?	high	word	41b9572f56f1	3314d913c855f937	2	1
+hazy-quartz-swings.sqsh	1470981	48000	1462352	xanny	Billie Eilish	WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?	high	word	77123248b313	11f68d5b6bac21f6	3	1
+noble-koala-surfs.sqsh	1094634	48000	1085718	you should see me in a crown	Billie Eilish	WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?	high	word	75530f365fd2	999f2a4a50ada334	4	1
+fuzzy-storm-spins.sqsh	1021410	48000	1013039	all the good girls go to hell	Billie Eilish	WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?	high	word	e5b671a1ea9a	a2a6c1151ba766b0	5	1
+zesty-ocean-runs.sqsh	1338371	48000	1329261	wish you were gay	Billie Eilish	WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?	high	word	d76351aa624c	98ce535d3406faa2	6	1
+calm-planet-plays.sqsh	1184515	48000	1176463	when the party's over	Billie Eilish	WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?	high	word	5f91c1d148ab	3c18513748d31009	7	1
+jolly-spruce-listens.sqsh	1044866	48000	1039210	8	Billie Eilish	WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?	high	line	d2d3881590a9	f5365bb59fbee521	8	1
+electric-rabbit-yawns.sqsh	1090284	48000	1079336	my strange addiction	Billie Eilish	WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?	high	word	b84ec0441c75	b6074eb9244d1633	9	1
+electric-falcon-swings.sqsh	1170001	48000	1158860	bury a friend	Billie Eilish	WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?	high	word	e946259dea11	82a301008bad1dcc	10	1
+noble-otter-ponders.sqsh	946193	48000	938225	ilomilo	Billie Eilish	WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?	high	word	4d468b2298e7	44512ea3fbffc56e	11	1
+lunar-oak-hops.sqsh	1463621	48000	1455913	listen before i go	Billie Eilish	WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?	high	word	30c7ec3bfec7	63bfe8bc8b200180	12	1
+jolly-bison-rolls.sqsh	1759335	48000	1750777	i love you	Billie Eilish	WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?	high	word	0712c5815dc7	8cb43223335d633a	13	1
+crisp-parrot-drifts.sqsh	722136	48000	716459	goodbye	Billie Eilish	WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?	high	word	ac2b307a609f	c783669a3a44da9c	14	1
