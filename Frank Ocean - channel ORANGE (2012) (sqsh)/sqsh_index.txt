@@ -1,0 +1,18 @@
+SQSHINDEX1	path	bytes	rate	audio	title	artist	album	quality	lyrkind	id	src	track	disc
+clever-beacon-glows.sqsh	278614	48000	273840	Start	Frank Ocean	channel ORANGE	high	word	73d04a4f3b37	e8777be912d6e00d	1	
+hidden-heron-sprints.sqsh	1215139	48000	1204480	Thinkin Bout You	Frank Ocean	channel ORANGE	high	word	3bfcc924daa7	c0e7e55907a2d1d5	2	
+happy-island-glows.sqsh	242517	48000	237840	Fertilizer	Frank Ocean	channel ORANGE	high	word	902bdeedec98	85012e2603cde5d2	3	
+eager-quartz-glides.sqsh	900804	48000	892560	Sierra Leone	Frank Ocean	channel ORANGE	high	word	53937f7a6b9a	ea97e10a39d8be4b	4	
+mighty-finch-floats.sqsh	1587041	48000	1576080	Sweet Life	Frank Ocean	channel ORANGE	high	word	682c03026e1b	017aa3898ee9824b	5	
+mighty-pony-rests.sqsh	365385	48000	358560	Not Just Money	Frank Ocean	channel ORANGE	high	word	ad8c76850222	605878d12253809f	6	
+gentle-fern-flies.sqsh	1842038	48000	1828560	Super Rich Kids	Frank Ocean, Earl Sweatshirt	channel ORANGE	high	word	64998a63cf3b	018b4f742b68a7db	7	
+glossy-galaxy-sings.sqsh	1114351	48000	1104480	Pilot Jones	Frank Ocean	channel ORANGE	high	word	ed46a1b21231	74b4769699a161d1	8	
+clever-thunder-sails.sqsh	1354952	48000	1344880	Crack Rock	Frank Ocean	channel ORANGE	high	word	d745b6c08f01	384ea08e27101c76	9	
+nimble-stone-skates.sqsh	3572126	48000	3557520	Pyramids	Frank Ocean	channel ORANGE	high	word	92b856871ae4	9bd2300936965b92	10	
+sonic-falcon-listens.sqsh	1415375	48000	1404560	Lost	Frank Ocean	channel ORANGE	high	word	a82eaf424464	ccf498607982f91f	11	
+tidy-tiger-drifts.sqsh	462002	48000	457680	White	Frank Ocean, John Mayer	channel ORANGE	high		fe52c3c2e0df	e656d21325718fad	12	
+silent-phoenix-slides.sqsh	1212229	48000	1201440	Monks	Frank Ocean	channel ORANGE	high	word	bb2bfe36fc4c	31a01356e98ef872	13	
+pastel-panda-floats.sqsh	1061906	48000	1052720	Bad Religion	Frank Ocean	channel ORANGE	high	word	1e82b02ccdaa	d3228f41f08d5977	14	
+brisk-ember-glows.sqsh	1624643	48000	1612880	Pink Matter	Frank Ocean, Andre 3000	channel ORANGE	high	word	b06e2984d597	718e81f437e955ec	15	
+fluffy-harbor-bounces.sqsh	1177050	48000	1169040	Forrest Gump	Frank Ocean	channel ORANGE	high	word	e3d46913f097	0435dcf939376a1d	16	
+quick-panda-ponders.sqsh	814581	48000	807600	End	Frank Ocean	channel ORANGE	high	word	4a416caf610f	65fd271bbd6cde40	17	
