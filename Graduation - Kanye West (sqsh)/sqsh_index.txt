@@ -1,0 +1,15 @@
+SQSHINDEX1	path	bytes	rate	audio	title	artist	album	quality	lyrkind	id	src	track	disc
+quiet-phoenix-rests.sqsh	1181208	48000	1170560	Good Morning	Kanye West	Graduation	high	word	6afed4d0cb79	ecd6c8256318d261	1	1
+tiny-summit-sails.sqsh	1020410	48000	1005600	Champion	Kanye West	Graduation	high	word	b00e12c97288	700b94cbafe4f056	2	1
+rapid-otter-laughs.sqsh	1892698	48000	1871200	Stronger	Kanye West	Graduation	high	word	ab37eeed7c9c	a45d4ba63265052e	3	1
+sly-jaguar-floats.sqsh	1470783	48000	1460640	I Wonder	Kanye West	Graduation	high	word	f537554a6319	b64cf4ce26833066	4	1
+daring-orbit-floats.sqsh	1257436	48000	1242000	Good Life	Kanye West, T-Pain	Graduation	high	word	b21c8613bbef	352e184661cf7d6e	5	1
+giant-sparrow-swims.sqsh	1643967	48000	1629600	Can't Tell Me Nothing	Kanye West	Graduation	high	word	f847d9acd551	6a4d010b5e517a55	6	1
+fancy-quartz-dances.sqsh	1240460	48000	1225840	Barry Bonds	Kanye West, Lil Wayne	Graduation	high	word	0857f9c52d09	8fc6b9945ca1f2cc	7	1
+scarlet-cedar-wanders.sqsh	1886839	48000	1879360	Drunk and Hot Girls	Kanye West, Mos Def	Graduation	high	line	8f32169677f2	14f2de6ad26f7622	8	1
+peppy-moose-grins.sqsh	1437853	48000	1427440	Flashing Lights	Kanye West, Dwele	Graduation	high	word	560b45ceec39	cd7ccc2f343f0245	9	1
+giant-puffin-walks.sqsh	1381145	48000	1367360	Everything I Am	Kanye West, DJ Premier	Graduation	high	word	767516c2aa46	16cd63fd6546e15e	10	1
+amber-rabbit-drifts.sqsh	1292846	48000	1276240	The Glory	Kanye West	Graduation	high	word	db4068acf865	9d872bfcfeb11f1d	11	1
+chilly-saturn-swims.sqsh	1234978	48000	1220960	Homecoming	Kanye West, Chris Martin	Graduation	high	word	5b8f26b6a799	16d2ce35c65cc3bc	12	1
+sonic-tiger-dashes.sqsh	1745321	48000	1725360	Big Brother	Kanye West	Graduation	high	word	0fdef44ffd3b	40b9f4d612e7c0c5	13	1
+olive-oak-listens.sqsh	1128956	48000	1115840	Good Night	Kanye West, Mos Def, Albe Back	Graduation	high	word	b932f008d7ee	e02dd8b80411d844	14	1
