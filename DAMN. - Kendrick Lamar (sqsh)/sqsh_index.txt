@@ -1,0 +1,15 @@
+SQSHINDEX1	path	bytes	rate	audio	title	artist	album	quality	lyrkind	id	src	track	disc
+giant-tulip-laughs.sqsh	715304	48000	708400	BLOOD.	Kendrick Lamar	DAMN.	high	word	4ee4c3151eb8	aaa82eefee921af2	1	1
+cheeky-wolf-whistles.sqsh	1133565	48000	1115680	DNA.	Kendrick Lamar	DAMN.	high	word	18d137b978cb	9a12a8dc85a9b644	2	1
+nimble-heron-paints.sqsh	967818	48000	961760	YAH.	Kendrick Lamar	DAMN.	high	line	6e595d2e3863	7a3bacd20813f800	3	1
+quick-finch-builds.sqsh	1268179	48000	1252400	ELEMENT.	Kendrick Lamar	DAMN.	high	word	1213c2f447c6	61bf7ee7dd06e36d	4	1
+polar-anchor-swims.sqsh	1304220	48000	1288960	FEEL.	Kendrick Lamar	DAMN.	high	word	2325a7adbc28	72fbc0d9e1998445	5	1
+dizzy-apple-swims.sqsh	1380116	48000	1364160	LOYALTY.	Kendrick Lamar, Rihanna	DAMN.	high	word	dcab658e4643	050d532472f0c6bb	6	1
+velvet-bear-yawns.sqsh	1665055	48000	1651520	PRIDE.	Kendrick Lamar	DAMN.	high	word	b20245c8af3e	7ff1f36f3784e391	7	1
+icy-quartz-wiggles.sqsh	1070015	48000	1062000	HUMBLE.	Kendrick Lamar	DAMN.	high	line	d59a41de08ec	b1fdb5e58f1e785d	8	1
+brave-quartz-swings.sqsh	1865027	48000	1847280	LUST.	Kendrick Lamar	DAMN.	high	word	7994b322f006	c50d9a9cd41fd06e	9	1
+little-pony-grins.sqsh	1297272	48000	1280400	LOVE.	Kendrick Lamar, Zacari	DAMN.	high	word	62a3713b8550	e41c9b243bb0ad57	10	1
+sonic-summit-flies.sqsh	1533562	48000	1525200	XXX.	Kendrick Lamar, U2	DAMN.	high	line	9186676f0760	92ce3fda56d5ee99	11	1
+windy-lily-snoozes.sqsh	2776062	48000	2763440	FEAR.	Kendrick Lamar	DAMN.	high	line	16e8e9767769	8aaf64a5694815af	12	1
+fierce-brook-plays.sqsh	1506445	48000	1492960	GOD.	Kendrick Lamar	DAMN.	high	word	44b5b4bbf881	53c53a55fa376ead	13	1
+dizzy-maple-skates.sqsh	1508274	48000	1491680	DUCKWORTH.	Kendrick Lamar	DAMN.	high	word	f09e3ef411d7	8042ff6cbd210e40	14	1
