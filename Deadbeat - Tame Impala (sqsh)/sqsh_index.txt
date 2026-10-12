@@ -1,0 +1,13 @@
+SQSHINDEX1	path	bytes	rate	audio	title	artist	album	quality	lyrkind	id	src	track	disc
+zesty-walrus-floats.sqsh	1799543	48000	1792703	My Old Ways	Tame Impala	Deadbeat	high	line	c92daef5c24e	b2c9aecd2f66c7bd	1	1
+early-cherry-rests.sqsh	1296161	48000	1290475	No Reply	Tame Impala	Deadbeat	high	line	e1f1cfd4f9a9	f487892870c3921e	2	1
+royal-rabbit-flies.sqsh	1238631	48000	1231853	Dracula	Tame Impala	Deadbeat	high	line	c278588423f8	2462521e64de59b8	3	1
+sonic-koala-ponders.sqsh	1344054	48000	1338420	Loser	Tame Impala	Deadbeat	high	line	5ff056fb3ad6	42ad6a31e73fd8de	4	1
+gentle-shark-drums.sqsh	1619701	48000	1613814	Oblivion	Tame Impala	Deadbeat	high	line	818187278179	dc35081da4f41c54	5	1
+eager-dragon-slides.sqsh	1529739	48000	1524720	Not My World	Tame Impala	Deadbeat	high	line	b0e8cfbbc406	87381a938e462dca	6	1
+lively-crow-jumps.sqsh	1713411	48000	1707651	Piece Of Heaven	Tame Impala	Deadbeat	high	line	e30c5b64d669	1134858440eb7ac0	7	1
+bold-dolphin-marches.sqsh	1587842	48000	1581846	Obsolete	Tame Impala	Deadbeat	high	line	6a2b06ba6484	16fbe4f9091038c4	8	1
+steady-zebra-rests.sqsh	2778874	48000	2773830	Ethereal Connection	Tame Impala	Deadbeat	high	line	8622ab3979fd	67b2e8c170aac948	9	1
+dapper-shark-flies.sqsh	1295901	48000	1289739	See You On Monday (You're Lost)	Tame Impala	Deadbeat	high	line	00cd64a481c4	639c568bb128d9ec	10	1
+little-wolf-grins.sqsh	1457216	48000	1450704	Afterthought	Tame Impala	Deadbeat	high	line	0c8db6c93d89	d8d1e3bf26658745	11	1
+merry-flame-whistles.sqsh	2601745	48000	2595399	End Of Summer	Tame Impala	Deadbeat	high	line	23cdf81dd119	386a8e03f2328de7	12	1
