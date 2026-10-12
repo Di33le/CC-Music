@@ -1,0 +1,2 @@
+SQSHINDEX1	path	bytes	rate	audio	title	artist	album	quality	lyrkind	id	src	track	disc
+velvet-bloom-thinks.sqsh	1660227	48000	1639449	Know Me	Casper TNG	Know Me	high	word	ed3bccfbc509	d265e2e9a8367009	1	1
