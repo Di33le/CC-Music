@@ -1,0 +1,2 @@
+SQSHINDEX1	path	bytes	rate	audio	title	artist	album	quality	lyrkind	id	src	track	disc
+lunar-galaxy-races.sqsh	1002465	48000	987792	Nikes on My Feet	Mac Miller		high	word	b241a9a7ff74	470726fce8f0d14a	1	1
