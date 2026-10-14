@@ -1,0 +1,3 @@
+SQSHINDEX1	path	bytes	rate	audio	title	artist	album	quality	lyrkind	id	src	track	disc
+daring-violet-laughs.sqsh	1343928	48000	1336707	leavemealone	Fred again.., Baby Keem		high	line	a54f26134220	5cd1bbeb516970f9	1	1
+merry-valley-dashes.sqsh	1004645	48000	995143	Victory Lap	Fred again.., Skepta, PlaqueBoyMax		high	line	fee3fbc4723f	9c8ccade057e8b5f	1	1

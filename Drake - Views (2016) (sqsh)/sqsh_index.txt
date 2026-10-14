@@ -1,0 +1,20 @@
+SQSHINDEX1	path	bytes	rate	audio	title	artist	album	quality	lyrkind	id	src	track	disc
+modern-brook-strolls.sqsh	1987079	48000	1973440	Keep The Family Close	Drake	Views	high	word	81ffed307b38	9e6dae33f9934f18	1	
+gentle-lagoon-swims.sqsh	1548833	48000	1534720	9	Drake	Views	high	word	1a73e00f08c1	1feaa388ef53d84e	2	
+tiny-storm-marches.sqsh	1454047	48000	1443920	Feel No Ways	Drake	Views	high	word	be7fb3c0af3d	63d5521a9f86ee55	4	
+silver-parrot-leaps.sqsh	1270850	48000	1256480	Hype	Drake	Views	high	word	578c6270b2ae	8ac22d6795251a03	5	
+cozy-heron-races.sqsh	1539221	48000	1521200	Weston Road Flows	Drake	Views	high	word	a59b1accd6da	83429005879c096c	6	
+fluffy-storm-slides.sqsh	2020901	48000	2003680	Redemption	Drake	Views	high	word	648863ce4431	85de8189dd9213dc	7	
+odd-planet-zooms.sqsh	1179912	48000	1170320	With You	Drake, PARTYNEXTDOOR	Views	high	word	6d5e5032d821	d5b8b16d4ff504cf	8	
+fancy-arrow-paints.sqsh	1755546	48000	1740800	Faithful	Drake, Pimp C, dvsn	Views	high	word	c77cf922e0d0	96bd40b4a31c06f4	9	
+vivid-moon-slides.sqsh	1146348	48000	1139120	Still Here	Drake	Views	high	line	b133f697b151	1931c9573997da40	10	
+daring-walrus-floats.sqsh	1482799	48000	1471360	Controlla	Drake	Views	high	word	55b6aaee25cc	0bdcfb947c87ad4a	11	
+mighty-maple-wanders.sqsh	1055611	48000	1043920	One Dance	Drake, Wizkid, Kyla	Views	high	word	bda498b9cbbf	f9252577f55136d2	12	
+shiny-torch-laughs.sqsh	1339328	48000	1322560	Grammys	Drake, Future	Views	high	word	a5e33fb3ca40	51d7b0dcd34ed224	13	
+bright-oak-smiles.sqsh	1464845	48000	1448400	Childs Play	Drake	Views	high	word	dee90f662895	034a7aeb0c502827	14	
+modern-yeti-rests.sqsh	1290135	48000	1277680	Pop Style	Drake	Views	high	word	74ca39a0fd86	2f1983fec9966a11	15	
+merry-ocean-wanders.sqsh	1594284	48000	1580240	Too Good	Drake, Rihanna	Views	high	word	050b7439415e	0e0cfea25bd2893f	16	
+grand-bear-sleeps.sqsh	643765	48000	638000	Summers Over Interlude	Drake, Majid Jordan	Views	high	word	32edbdb67880	26733ea482a64830	17	
+silent-wolf-plays.sqsh	1439496	48000	1428720	Fire & Desire	Drake	Views	high	word	c526498d7241	3755889101d3aea5	18	
+dizzy-cherry-dreams.sqsh	1888050	48000	1871760	Views	Drake	Views	high	word	6d9cff4becd8	91f201279600d751	19	
+noble-planet-zooms.sqsh	1614549	48000	1602400	Hotline Bling	Drake	Views	high	word	9c97250af15f	c221fbd1570ae80f	20	
