@@ -1,0 +1,4 @@
+SQSHINDEX1	path	bytes	rate	audio	title	artist	album	quality	lyrkind	id	src	track	disc
+giant-banjo-jumps.sqsh	1280041	48000	1274143	Let Me Through	CG5, Dolvondo		high	line	b7477b424e00	faa2e28d4287e1c2	1	1
+brave-saturn-rolls.sqsh	1027590	48000	1021484	Savior	ChewieCatt		high	line	bff888c66892	887609a832c1cd89	1	1
+nimble-spruce-paints.sqsh	1328008	48000	1320914	La La La	Naughty Boy, Sam Smith		high	line	3c0b1f518c01	89d93b7223e4587d	1	1
