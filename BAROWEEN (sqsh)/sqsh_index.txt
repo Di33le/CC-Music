@@ -1,0 +1,2 @@
+SQSHINDEX1	path	bytes	rate	audio	title	artist	album	quality	lyrkind	id	src	track	disc
+early-fox-grins.sqsh	904756	48000	897072	BIG DICK RANDY	DigBar	BAROWEEN	high	line	9288f8255ff8	0a274ec6dabb9fb2	4	
